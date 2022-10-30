@@ -24,6 +24,7 @@ window.Config = {
     'm786884782-e7e1089da8ed0abb988854c6',
     'm792935652-2055da627d9e82f4fb4f6f05',
     'm792941985-2c35cca3788e514d2f654fd5',
+    'm792954291-646e7502bbff6c3b2e75b4d4',
   ],
 
   // if shows monitored site's URL
