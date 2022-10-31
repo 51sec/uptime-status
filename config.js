@@ -40,7 +40,7 @@ window.Config = {
     {
       text: 'Sites',
       url: 'https://sites.51sec.org'
-    }
+    },
     {
       text: '51Sec',
       url: 'https://51sec.org/'
