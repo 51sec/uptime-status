@@ -28,7 +28,7 @@ window.Config = {
   ],
 
   // if shows monitored site's URL
-  ShowLink: false,
+  ShowLink: True,
 
   // Show how many days of log. 
   // API can have 90 days, although free plan says only for 60 days.
@@ -38,7 +38,11 @@ window.Config = {
   // Navigation menu at top right. 
   Navi: [
     {
-      text: 'Homepage',
+      text: 'Sites',
+      url: 'https://sites.51sec.org'
+    }
+    {
+      text: '51Sec',
       url: 'https://51sec.org/'
     },
     {
