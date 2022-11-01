@@ -28,7 +28,7 @@ window.Config = {
   ],
 
   // if shows monitored site's URL
-  ShowLink: True,
+  ShowLink: false,
 
   // Show how many days of log. 
   // API can have 90 days, although free plan says only for 60 days.
