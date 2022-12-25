@@ -2,10 +2,10 @@
 window.Config = {
 
   // Site Name
-  SiteName: 'Uptime Status',
+  SiteName: '51Sec Uptime Robot Status',
 
   // Site URL
-  SiteUrl: '/',
+  // SiteUrl: '/',
 
   // UptimeRobot Api 域名
   // Enter domain name part. default isuptimerobot.com's domain
@@ -28,7 +28,7 @@ window.Config = {
   ],
 
   // if shows monitored site's URL
-  ShowLink: false,
+  ShowLink: true,
 
   // Show how many days of log. 
   // API can have 90 days, although free plan says only for 60 days.
