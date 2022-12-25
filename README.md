@@ -20,7 +20,7 @@ Add your own custom domain to your Heroku project:
 Demo Link: 
 https://uptimerobot.herokuapp.com/
 
-https://uptimerobot.51sec.eu.org/
+https://uptimerobot.51sec.org/
 
 
 # uptime-status
