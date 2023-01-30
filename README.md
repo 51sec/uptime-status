@@ -1,4 +1,4 @@
-##Starting on Nov. 28, 2022, free Heroku dynos will no longer be available. This guide will still be relevant, but hosting your bot through Heroku will be a paid service.
+## Starting on Nov. 28, 2022, free Heroku dynos will no longer be available. This guide will still be relevant, but hosting your bot through Heroku will be a paid service.
 
 
 
