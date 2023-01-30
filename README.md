@@ -1,3 +1,7 @@
+##Starting on Nov. 28, 2022, free Heroku dynos will no longer be available. This guide will still be relevant, but hosting your bot through Heroku will be a paid service.
+
+
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/51sec/uptime-status/master)
 # Screenshots
 Status Example Page:
